@@ -15,4 +15,4 @@ Begin with intro paragraph
 
 ## Headers Should Be Second-level, Not First
 
-What the fuck is up Denny's!?
+You remind me of myself, batman.
